@@ -24,7 +24,7 @@ different programming language into Rust.
 Install dylint:
 
 ```
-cargo install cargo-dylint
+cargo install cargo-dylint dylint-link
 ```
 
 ### Known problems
